@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Work\\repos\\book-api-alpha\\book-api-alpha.csproj": {}
+    "F:\\Work\\repos\\book-api-alpha\\book-api\\book-api-alpha.csproj": {}
   },
   "projects": {
-    "F:\\Work\\repos\\book-api-alpha\\book-api-alpha.csproj": {
+    "F:\\Work\\repos\\book-api-alpha\\book-api\\book-api-alpha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Work\\repos\\book-api-alpha\\book-api-alpha.csproj",
+        "projectUniqueName": "F:\\Work\\repos\\book-api-alpha\\book-api\\book-api-alpha.csproj",
         "projectName": "book-api-alpha",
-        "projectPath": "F:\\Work\\repos\\book-api-alpha\\book-api-alpha.csproj",
+        "projectPath": "F:\\Work\\repos\\book-api-alpha\\book-api\\book-api-alpha.csproj",
         "packagesPath": "C:\\Users\\VIANAS\\.nuget\\packages\\",
-        "outputPath": "F:\\Work\\repos\\book-api-alpha\\obj\\",
+        "outputPath": "F:\\Work\\repos\\book-api-alpha\\book-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VIANAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

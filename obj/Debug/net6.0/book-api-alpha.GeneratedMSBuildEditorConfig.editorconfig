@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = book_api_alpha
 build_property.RootNamespace = book_api_alpha
-build_property.ProjectDir = F:\Work\repos\book-api-alpha\
+build_property.ProjectDir = F:\Work\repos\book-api-alpha\book-api\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Work\repos\book-api-alpha
+build_property.MSBuildProjectDirectory = F:\Work\repos\book-api-alpha\book-api
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Work/repos/book-api-alpha/Pages/Error.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/Index.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/Privacy.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/_ViewImports.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/_ViewStart.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Work/repos/book-api-alpha/Pages/Shared/_Layout.cshtml]
+[F:/Work/repos/book-api-alpha/book-api/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vwkc4iomn3
